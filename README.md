@@ -1,2 +1,2 @@
-Vereins-lokal
-=============
+VereinsLokal
+============
